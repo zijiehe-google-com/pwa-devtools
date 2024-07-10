@@ -24,7 +24,7 @@ sudo apt install npm nodejs
 npm i puppeteer --save
 ```
 
-Demo uses Chrome dev channel (or google-chrome-unstable in some contexts) on linux; see https://www.google.com/chrome/dev/?platform=linux&extra=devchannel for the instruction of installation. Eventually the required changes will be released to the Chrome production (M128 or upper), and regular Chrome stable channel (or google-chrome in some contexts) can be used.
+Demo uses Chrome dev channel (or google-chrome-unstable in some contexts) on linux. Eventually the required changes will be released to the Chrome production (M128 or upper), and regular Chrome stable channel (or google-chrome in some contexts) can be used.
 
 
 #### Important Caveat - uninstall when you are done!
