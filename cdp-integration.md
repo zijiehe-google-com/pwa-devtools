@@ -42,7 +42,7 @@ Create a browser instance via puppeteer.launch,
 
 
 ```
-export const browser = await puppeteer.launch({
+const browser = await puppeteer.launch({
   // No need to use unstable once the PWA implementations roll to prod.
   executablePath:
       '/usr/bin/google-chrome-unstable',
