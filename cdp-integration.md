@@ -31,7 +31,7 @@ Demo uses Chrome dev channel (or google-chrome-unstable in some contexts) on lin
 
 This 'actually' installs the web app on your system - to ensure this is properly cleaned up after your test is complete, please make sure you uninstall the web app in the test!
 
-TODO(http://crbug.com/339457135): Add ability to mock & clean up app installations as a command-line flag.
+TODO(https://crbug.com/339457135): Add ability to mock & clean up app installations as a command-line flag.
 
 
 #### Basic Ideas
